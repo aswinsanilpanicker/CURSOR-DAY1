@@ -1,2 +1,2 @@
-# CURSOR-DAY1
+# VIBE CODING
 Starting to Build with AI
